@@ -13,9 +13,6 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-	"engines": {
-   		 "node": "16.x"
-  	}
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
