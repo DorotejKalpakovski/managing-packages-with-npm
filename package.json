@@ -1,5 +1,6 @@
 {
 	"author": "Dorotej Kalpakovski",
+	"license": "FINKI",
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "related", "words" ],
 	"name": "fcc-learn-npm-package-json",
